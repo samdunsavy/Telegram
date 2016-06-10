@@ -1,0 +1,1 @@
+a:1:{s:5:"Stats";a:2:{s:5:"State";s:3:"Bot";s:4:"Told";s:4:"Told";}}
